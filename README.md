@@ -3,7 +3,7 @@
 * To clone a project you hit the clone button on the right side
 * Make sure you have downloaded Git before all of this
 * Open up ypur terminal and go to the folder you want this project to live in
-* type: git clone <Paste The URLYou copied from the clone button here> 
+* type: git clone (Paste The URL You copied from the clone button here)
 * Hit enter
 * then go into the project by typing: cd braxton_color_changer
 * typ: code .
