@@ -1,0 +1,32 @@
+body{
+    background-color: thistle;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+/* 
+   To point at a specific class to style it, you start the name of a class with a . 
+   To point at an ID you start it with a # 
+*/
+.mainHeader{
+    color: teal;
+    font-size: x-large;
+    list-style-type: georgian;
+}
+
+#imageContainer{
+    width: auto;
+}
+
+.doggyImage{
+    object-fit: contain;
+    width: 300px;
+    height: 400px;
+}
+
+.hex-button{
+    margin-left: 10px;
+}
